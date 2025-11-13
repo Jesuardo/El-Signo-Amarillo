@@ -1,34 +1,26 @@
-# OS-specific files
-DS_Store
-AppleDouble
-LSOverride
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-# Python-related files
-*.pyc
-*.pyo
-*.egg-info
-# Ren'Py compiled and cache files
-*.rpyc
-*.rpyb
-*.rpymc
-# Logs and temporary files
-log.txt
-errors.txt
-traceback.txt
-lint.txt
-# Generated directories
-saves/
-tmp/
-cache/
-# Executables and platform-specific builds
-/renpy.exe
-/renpy.sh
-/renpy.app
-# Editor/IDE-specific files
-vscode/
-*.bak
-*~
-# Old game directory (optional, if used)
-/old-game/
+# Directories that Ren'Py changes files in.
+/game/saves
+/game/cache
+
+# Compiled script files. These are important for saving, and so should
+# be preserved by developer and build systems after the game has been released.
+/game/**/*.rpyc
+/game/**/*.rpymc
+
+# Files Ren'Py can generate.
+/game/**/*.bak
+/game/**/*.new
+/game/**/*.old
+
+# Error, log, and output files.
+/errors.txt
+/files.txt
+/image_cache.txt
+/log.txt
+/save_dump.txt
+/traceback.txt
+
+# Launcher-generated files.
+/dialogue.tab
+/dialogue.txt
+/strings.json
