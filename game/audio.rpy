@@ -15,13 +15,16 @@
 # -----------------------------------------------------
 # MÚSICA (BGM)
 # -----------------------------------------------------
-define audio.theme_main        = "audio/theme_main.ogg"
-define audio.theme_signo       = "audio/theme_signo.ogg"
-define audio.theme_tension     = "audio/theme_tension.ogg"
-define audio.theme_suspenso    = "audio/theme_suspenso.ogg"
-define audio.theme_misterio    = "audio/theme_misterio.ogg"
-define audio.theme_recuerdo    = "audio/theme_recuerdo.ogg"
-define audio.theme_guerra      = "audio/theme_guerra.ogg"
+define audio.theme_main        = "audio/bgm/ambientacionTensa.ogg"
+define audio.theme_signo       = "audio/bgm/introMisteriosoOscuro.ogg"
+define audio.theme_tension     = "audio/bgm/tensionCorta.ogg"
+define audio.theme_suspenso    = "audio/bgm/hojasVolando.ogg"
+define audio.theme_misterio    = "audio/bgm/pasajeHojasPapel.ogg"
+define audio.theme_recuerdo    = "audio/bgm/sirenasLejanas.ogg"
+define audio.theme_guerra      = "audio/bgm/tensionCorta.ogg"
+define audio.theme_si          = "audio/bgm/vientoCiudad.ogg"
+define audio.theme_no          = "audio/bgm/vientoFrio.ogg"
+
 
 # -----------------------------------------------------
 # AMBIENTES (AMB)
@@ -40,10 +43,10 @@ define audio.amb_guerra_distant = "audio/amb_guerra_distant.ogg"
 # -----------------------------------------------------
 # EFECTOS DE SONIDO (SFX)
 # -----------------------------------------------------
-define audio.sfx_door_creak     = "audio/sfx_door_creak.ogg"
-define audio.sfx_door_knock     = "audio/sfx_door_knock.ogg"
-define audio.sfx_step_stone     = "audio/sfx_step_stone.ogg"
-define audio.sfx_step_wood      = "audio/sfx_step_wood.ogg"
+define audio.sfx_door_creak     = "audio/sfx/abrazo.ogg"
+define audio.sfx_door_knock     = "audio/sfx/campanaMinecraft.ogg"
+define audio.sfx_step_stone     = "audio/sfx/chillidoPuerta.ogg"
+define audio.sfx_step_wood      = "audio/sfx/encenderCigarrillo.ogg"
 define audio.sfx_paper_rustle   = "audio/sfx_paper_rustle.ogg"
 define audio.sfx_cig_light      = "audio/sfx_cig_light.ogg"
 define audio.sfx_match_strike   = "audio/sfx_match_strike.ogg"
