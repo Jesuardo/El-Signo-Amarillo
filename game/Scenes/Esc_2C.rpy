@@ -56,7 +56,7 @@ label esc_2C:
     n "Nada de lo que pinte podrá escapar de esa sombra."
 
     # El agente
-    scene bg atrio 
+    scene bg atrio_iglesia_agente 
 
     n "Fuera, algo se mueve."
     n "Scott se inclina."
