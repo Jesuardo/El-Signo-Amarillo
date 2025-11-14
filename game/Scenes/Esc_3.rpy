@@ -4,7 +4,6 @@
 
 label esc_3:
 
-    play ambient audio.amb_estudio fadein 1.0
     scene bg studio_day with fade
 
     n "Desde la ventana, Scott observa la plaza."

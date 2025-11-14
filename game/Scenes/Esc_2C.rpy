@@ -41,7 +41,6 @@ label esc_2C:
     # Regreso al presente
     play sound audio.sfx_transicion
     scene bg estudio_day with fade
-    play ambient audio.amb_estudio fadein 1.0
 
     play sound audio.sfx_motor
     n "El sonido de los motores blindados lo trae de vuelta. El recuerdo se disuelve lentamente."
