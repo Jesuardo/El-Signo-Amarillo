@@ -30,6 +30,7 @@ scene bg casa_tessie_destruida    = "images/bg/casa_tessie_destruida .jpg"
 scene bg iglesia_interior   = "images/bg/iglesia_interior.jpg"
 scene bg plaza_iglesia    = "images/bg/plaza_iglesia.jpg"
 scene bg sotano_iglesia   = "images/bg/sotano_iglesia.jpg"
+scene bg recuerdo_Guerra = "images/bg/flashbackguerra.webp"
 
 
 image bg recepcion2_2    = "images/bg/recepcion2(lampara).jpg"
