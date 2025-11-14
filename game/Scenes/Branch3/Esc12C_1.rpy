@@ -16,7 +16,7 @@ label esc_12C_1:
     scene bg hospedaje_exterior with dissolve
 
     n "Scott llega al hospedaje. Empuja la puerta."
-    sfx audio.sfx_door_creak
+    play sound audio.sfx_chillido
 
     n "El sonido de las bisagras rompe el silencio."
     n "Adentro, la penumbra. El polvo suspendido. Un olor a humedad y perfume olvidado."

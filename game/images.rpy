@@ -8,34 +8,29 @@
 # -----------------------------------------------------
 
 # Backgrounds
-image bg atrio_iglesia_agente      = "images/bg/estudio_day.jpg"
-image bg calle_feliz  = "images/bg/calle_feliz.jpg"
-image bg edificio_frente    = "images/bg/eficio_frente.jpg"
-image bg estudio_tessie_pintada   = "images/bg/estudio_tessie_pintada.jpg"
-image bg estudio1    = "images/bg/estudio1.jpg"
-image bg estudio2    = "images/bg/estudio2.jpg"
-image bg flashback    = "images/bg/flasbackguerra.jpg"
-image bg recepcion1    = "images/bg/recepcion1.jpg"
-image bg recepcion2    = "images/bg/recepcion2.jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
-image bg atrio    = "images/bg/atrio.jpg"
-image bg auto    = "images/bg/brum_brum.jpg"
-image bg calle_dia    = "images/bg/calle_dia .jpg"
-image bg calle_noche    = "images/bg/calle_noche.jpg"
-image bg campo_fusilacion    = "images/bg/campo_fusilacion.jpg"
-image bg carretera    = "images/bg/carretera.jpg"
-image bg casa_scott    = "images/bg/casa_scott.jpg"
-image bg casa_tessie   = "images/bg/casa_tessie.jpg"
-image bg casa_tessie_destruida    = "images/bg/casa_tessie_destruida .jpg"
-image bg iglesia_interior   = "images/bg/iglesia_interior.jpg"
-image bg plaza_iglesia    = "images/bg/plaza_iglesia.jpg"
-image bg sotano_iglesia   = "images/bg/sotano_iglesia.jpg"
-
-
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
-image bg recepcion2.2    = "images/bg/recepcion2(lampara).jpg"
+image bg atrio_iglesia_agente      = im.Scale("images/bg/atrio_iglesia_agente.webp", 1920, 1080)
+image bg calle_feliz  = im.Scale("images/bg/calle_feliz.webp", 1920, 1080)
+image bg edificio_frente    = im.Scale("images/bg/edificio_frente.webp", 1920, 1080)
+image bg estudio_tessie_pintada   = im.Scale("images/bg/estudio tessie pintada.webp", 1920, 1080)
+image bg estudio1    = im.Scale("images/bg/estudio1.png", 1920, 1080)
+image bg estudio2    = im.Scale("images/bg/estudio2.webp", 1920, 1080)
+image bg flashback    = im.Scale("images/bg/flashbackguerra.webp", 1920, 1080)
+image bg recepcion1    = im.Scale("images/bg/recepcion1.webp", 1920, 1080)
+image bg recepcion2    = im.Scale("images/bg/recepcion2.webp", 1920, 1080)
+image bg recepcion2_2    = im.Scale("images/bg/recepcion2(lampara).webp", 1920, 1080)
+image bg atrio    = im.Scale("images/bg/atrio.png", 1920, 1080)
+image bg auto    = im.Scale("images/bg/brum_brum.png", 1920, 1080)
+image bg calle_dia    = im.Scale("images/bg/calle_dia.png", 1920, 1080)
+image bg calle_noche    = im.Scale("images/bg/calle_noche.png", 1920, 1080)
+image bg campo_fusilacion    = im.Scale("images/bg/campo_fusilacion.png", 1920, 1080)
+image bg carretera    = im.Scale("images/bg/carretera.png", 1920, 1080)
+image bg casa_scott    = im.Scale("images/bg/casa_scott.png", 1920, 1080)
+image bg casa_tessie   = im.Scale("images/bg/casa_tessie.png", 1920, 1080)
+image bg casa_tessie_destruida    = im.Scale("images/bg/casa_tessie_destruida.png", 1920, 1080)
+image bg iglesia_interior   = im.Scale("images/bg/iglesia_interior.png", 1920, 1080)
+image bg plaza_iglesia    = im.Scale("images/bg/plaza_iglesia.png", 1920, 1080)
+image bg sotano_iglesia   = im.Scale("images/bg/sotano_iglesia.webp", 1920, 1080)
+image bg escena1          = im.Scale("images/bg/escena1.png", 1920, 1080)
 
 
 
