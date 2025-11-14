@@ -11,7 +11,7 @@ label esc_25C_1B:
     n "Scott y Tessie permanecían agazapados, ocultos detrás del caballete, conteniendo la respiración."
     n "Cada músculo de Scott estaba rígido; sabía que un solo sonido los condenaría."
 
-    show agent_shadow at center with dissolve
+    show agent_shadow at center 
     n "El agente avanzó con calma. Su silueta, recortada contra la luz del pasillo, se movía con la precisión de quien ya conoce el terreno."
 
     n "Se detuvo ante la mesa. Sus ojos se posaron en el libro amarillo, el volumen que contenía un fragmento del pasado que el régimen había decidido borrar."
@@ -29,7 +29,7 @@ label esc_25C_1B:
     n "El agente se enderezó, sus movimientos lentos, controlados. No habló."
     n "Solo observó el cuarto en silencio, como un depredador asegurándose de que la presa no respirara."
 
-    hide agent_shadow with dissolve
+    hide agent_shadow 
     play sound "pasos_pasillo.ogg"
     n "Después, giró sobre sus talones y desapareció en la bruma del pasillo."
     n "El eco de sus pasos se perdió entre los muros."

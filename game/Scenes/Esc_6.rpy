@@ -12,6 +12,11 @@ label esc_6:
 
     te "¡No puedo…! Siento que algo terrible va a pasar…"
 
+    show sc1:
+        xalign 0.2
+        yalign 1.0
+        alpha 0.0
+        linear 1.0 alpha 1.0
     sc "(voz baja) Tranquila, Tessie…"
 
     n "Scott comprende que debe actuar antes de que la ansiedad la consuma."

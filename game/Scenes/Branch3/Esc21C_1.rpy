@@ -11,8 +11,8 @@ label esc_21C_1:
     n "Las sombras se mueven, alargadas, torcidas."
     n "El lugar parece vivo."
 
-    show sc at left with dissolve
-    show te at right with dissolve
+    show sc at left 
+    show te at right 
 
     n "Scott y Tessie se agazapan detrás del caballete."
     n "Sus respiraciones son cortas, medidas."

@@ -19,7 +19,7 @@ label esc_26C_1A:
     n "lo sostuvo unos segundos bajo la luz trémula"
     n "y luego se lo guardó bajo el abrigo."
 
-    show te_confusa at right with dissolve
+    show te_confusa at right 
     n "Tessie intentó moverse, pero el dolor la doblegó."
     n "Su otra mano buscó su pecho, donde llevaba prendido el broche con el signo."
 
@@ -27,15 +27,15 @@ label esc_26C_1A:
     n "arrancó el broche con un tirón seco,"
     n "y el sonido metálico del cierre se perdió entre los pasos y la respiración entrecortada de ella."
 
-    hide te_confusa with dissolve
+    hide te_confusa 
 
     n "Scott dio un paso hacia adelante, pero se detuvo."
     n "Las botas del agente resonaron contra el suelo, y el eco del metal pareció llenarlo todo."
 
-    show te at right with dissolve
+    show te at right 
     n "Tessie lo miró una última vez."
     n "Su rostro estaba pálido, sus ojos abiertos, llenos de comprensión y resignación."
-    hide te with dissolve
+    hide te 
 
     n "El agente se apartó sin mirarla."
     n "Salió al pasillo."
@@ -46,7 +46,7 @@ label esc_26C_1A:
     n "Después, avanzó."
     n "Sus pasos fueron lentos, vacilantes."
 
-    show sc_tenso at left with dissolve
+    show sc_tenso at left 
     n "Se inclinó junto a ella."
     n "El suelo estaba frío."
     n "El aire olía a hierro, tinta y miedo."
@@ -58,7 +58,7 @@ label esc_26C_1A:
 
     n "Sus labios temblaron, pero no dijo más."
 
-    hide sc_tenso with dissolve
+    hide sc_tenso 
 
     n "Se levantó despacio."
     n "Miró hacia la puerta abierta, hacia el pasillo vacío donde la niebla se mezclaba con el humo del régimen."

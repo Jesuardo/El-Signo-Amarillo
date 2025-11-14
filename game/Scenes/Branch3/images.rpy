@@ -30,7 +30,7 @@ image bg casa_tessie_destruida    = "images/bg/casa_tessie_destruida .jpg"
 image bg iglesia_interior   = "images/bg/iglesia_interior.jpg"
 image bg plaza_iglesia    = "images/bg/plaza_iglesia.jpg"
 image bg sotano_iglesia   = "images/bg/sotano_iglesia.jpg"
-
+#image bg hospedaje_noche  = "images/bg/."
 
 # -----------------------------------------------------
 # PERSONAJES (Sprites básicos)

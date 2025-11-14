@@ -6,13 +6,13 @@
 label esc_2C:
 
     # Entrar al recuerdo
-    scene black with dissolve
+    scene black 
     play sound audio.sfx_transicion
 
     n "Scott cierra los ojos."
     n "El murmullo de la ciudad se disuelve, y el sonido de la bruma da paso a un eco distante: la nieve helada del frente oriental."
 
-    scene bg flashback with dissolve 
+    scene bg flashback  
 
 
 
@@ -56,7 +56,7 @@ label esc_2C:
     n "Nada de lo que pinte podrá escapar de esa sombra."
 
     # El agente
-    scene bg atrio with dissolve
+    scene bg atrio 
 
     n "Fuera, algo se mueve."
     n "Scott se inclina."
@@ -73,7 +73,7 @@ label esc_2C:
     n "de la obediencia impuesta."
 
     # Vuelta al estudio
-    scene bg estudio1 with dissolve
+    scene bg estudio1 
 
     n "Scott apaga su cigarrillo."
     n "No aparta la vista."

@@ -6,10 +6,10 @@ label esc_29C_1B:
     n "La lluvia seguía golpeando los adoquines, dibujando ondas en los charcos que reflejaban la luz difusa de los faroles."
     n "La bruma se arrastraba entre las esquinas, envolviendo la calle en un resplandor amarillo y enfermo."
 
-    show te neutral at right with dissolve
+    show te neutral at right 
     n "Desde el balcón, Tessie observaba a Scott con preocupación."
     
-    show sc neutral at left with dissolve
+    show sc neutral at left 
     n "Él permanecía junto a la ventana, los ojos fijos en el exterior, atrapado por un impulso que ni él mismo entendía."
 
     te "“Scott… ¿qué haces? La noche está llena de peligros.”"

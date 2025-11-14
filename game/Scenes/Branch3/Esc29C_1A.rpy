@@ -19,7 +19,7 @@ label esc_29C_1A:
     n "Scott levantó la vista."
     n "Entre la bruma, las luces difusas de un carro militar se abrían paso como ojos de una bestia."
 
-    scene bg carro_militar_bruma with dissolve
+    scene bg carro_militar_bruma 
 
     n "El motor rugía, constante, preciso."
     n "El vehículo se detuvo a pocos metros de él."
@@ -61,7 +61,7 @@ label esc_29C_1A:
     n "{i}El conocimiento no libera.{/i}"
     n "{i}Solo revela lo que siempre estuvo mirando.{/i}"
 
-    scene bg ciudad_niebla_desierta with dissolve
+    scene bg ciudad_niebla_desierta 
 
     n "El carro militar se perdió entre la niebla, llevándose consigo al último vestigio de lo humano."
     n "La ciudad quedó inmóvil, silenciosa, vigilante."

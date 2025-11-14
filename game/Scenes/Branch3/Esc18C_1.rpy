@@ -6,13 +6,13 @@ label esc_18C_1:
     n "Solo el tic-tac del reloj y el leve crepitar de la lámpara rompen la quietud."
     n "El aire parece detenido, expectante."
 
-    show te at center with dissolve
+    show te at center 
 
     n "Tessie se inclina sobre el libro amarillo."
     n "Sus dedos tiemblan mientras acarician la cubierta gastada."
     n "El cuero refleja la luz de la lámpara con un resplandor enfermizo."
 
-    show sc at left with dissolve
+    show sc at left 
 
     n "Scott está a su lado, inmóvil."
     n "Su corazón late con violencia, sus pensamientos son un torbellino de advertencias."

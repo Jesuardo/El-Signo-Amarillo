@@ -27,6 +27,11 @@ label esc_4:
 
     n "Cada trazo que da parece infectar el lienzo, extender la corrupción como una gangrena."
 
+    show sc1:
+            xalign 0.2
+            yalign 1.0
+            alpha 0.0
+            linear 1.0 alpha 1.0
     sc "No es tu culpa. Es… la luz, el calor… y quizá la sombra de aquel hombre allá afuera."
     sc "Todo se mezcla, todo contamina el color."
 

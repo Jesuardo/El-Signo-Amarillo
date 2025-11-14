@@ -15,7 +15,7 @@ label esc_26C_1B:
     play sound "pasos_mojados.ogg"
     n "Doblaron una esquina. El apartamento del artista surgió entre la bruma, sus ventanas dejando escapar una luz amarilla tenue."
 
-    scene bg apartamento_artista_exterior_noche with dissolve
+    scene bg apartamento_artista_exterior_noche
     play sound "puerta_madera.ogg"
     n "Scott empujó la puerta. El crujido de la madera se confundió con el murmullo de la lluvia."
 

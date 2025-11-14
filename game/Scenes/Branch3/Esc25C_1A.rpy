@@ -17,14 +17,14 @@ label esc_25C_1A:
     n "Su luz proyectó sombras que se alargaban por las paredes, retorciéndose sobre los símbolos dorados del libro."
 
     # Scott sigue oculto
-    show sc at left with dissolve
+    show sc at left
     n "Scott, oculto tras el armario, vio cómo la puerta se abría del todo."
-    hide sc with dissolve
+    hide sc 
 
     n "Su respiración se detuvo."
     n "No podía moverse. No podía emitir un sonido."
 
-    show te at right with dissolve
+    show te at right 
 
     n "Tessie retrocedió, el libro todavía entre sus manos."
     n "Su rostro, iluminado por la luz trémula, mezclaba miedo y una obstinación casi febril."
@@ -47,7 +47,7 @@ label esc_25C_1A:
     n "Un corte profundo se abrió en su muñeca y su costado."
     n "La sangre comenzó a correr, lenta, densa, goteando sobre el suelo y sobre las páginas abiertas del libro amarillo."
 
-    hide te with dissolve
+    hide te 
 
     n "Scott la vio caer."
     n "Su cuerpo se inclinó un poco hacia adelante, como si fuera a moverse."
@@ -71,10 +71,10 @@ label esc_25C_1A:
     n "El silencio fue absoluto."
 
     # Tessie final
-    show te at right with dissolve
+    show te at right
     n "Tessie, aún en el suelo, sostuvo el libro una última vez."
     n "Su cuerpo tembló."
-    hide te with dissolve
+    hide te 
 
     n "Después, cayó quieta."
 

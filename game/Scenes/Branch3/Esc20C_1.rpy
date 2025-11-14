@@ -6,13 +6,12 @@ label esc_20C_1:
     n "El zumbido de la lámpara es lo único que interrumpe el silencio."
     n "El aire pesa, saturado de humo y polvo."
 
-    show te at center with dissolve
+    show te at center 
 
     n "Tessie sigue junto al libro, los dedos sobre la cubierta amarillenta,"
     n "como si temiera tocarlo y no pudiera dejar de hacerlo."
 
-    show sc at left with dissolve
-
+    show sc at left 
     n "Scott permanece detrás, de pie, la vista fija en la ventana."
 
     # Ruido metálico de ruedas sobre adoquines

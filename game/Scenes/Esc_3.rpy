@@ -6,7 +6,9 @@ label esc_3:
 
     scene bg estudio_tessie_pintada with fade
 
+    
     n "Desde la ventana, Scott observa la plaza."
+    
     n "Apoyado contra el atrio, un hombre permanece inmóvil."
     n "Su rostro, abultado y grisáceo, parece hecho de cera muerta."
     n "El uniforme del régimen lo oprime, como si la vida misma se hubiera rendido bajo la tela."
@@ -39,6 +41,11 @@ label esc_3:
     play sound audio.sfx_cigarrillo
     n "Enciende un cigarrillo y lo observa con recelo."
 
+    show sc1:
+            xalign 0.2
+            yalign 1.0
+            alpha 0.0
+            linear 1.0 alpha 1.0
     sc "No… he estropeado este brazo. No sé cómo pude contaminar la pintura así."
 
     te "¿No es culpa mía, verdad?"

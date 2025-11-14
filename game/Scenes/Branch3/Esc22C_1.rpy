@@ -8,8 +8,8 @@ label esc_22C_1:
     n "La bruma del exterior se colaba por la ventana entreabierta,"
     n "dejando un hilo de aire frío en la habitación."
 
-    show sc at left with dissolve
-    show te at right with dissolve
+    show sc at left 
+    show te at right 
 
     n "Scott y Tessie se habían refugiado detrás del caballete."
     n "El libro amarillo permanecía sobre la mesa,"
@@ -55,7 +55,6 @@ label esc_22C_1:
 
     show sc at left
     show te at right
-    with dissolve
 
     n "El caballete quedó frente a ellos,"
     n "y más allá, la mesa con el libro iluminado como un faro."

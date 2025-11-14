@@ -9,7 +9,7 @@ label esc_28C_1B:
     n "Scott estaba junto al ventanal, los dedos apoyados en el marco frío, observando el exterior con atención contenida."
     n "Cada sonido —crujidos de ruedas, golpes de metal, pasos que se alejaban y volvían— parecía venir de todas partes al mismo tiempo."
 
-    show te neutral at right with dissolve
+    show te neutral at right 
     n "Tessie permanecía detrás de él, respirando con cuidado."
     n "Sus ojos seguían cada sombra que los faroles proyectaban en el suelo."
 

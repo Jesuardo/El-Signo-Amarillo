@@ -15,7 +15,7 @@ label esc_27C_1B:
 
     n "Giró la cabeza."
 
-    show te neutral at right with dissolve
+    show te neutral at right 
     n "Tessie estaba apoyada contra la pared, los ojos húmedos, el cuerpo temblando apenas."
 
     n "La urgencia de protegerla se mezclaba con el miedo a perderla."

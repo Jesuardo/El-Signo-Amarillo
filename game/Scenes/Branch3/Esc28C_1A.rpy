@@ -9,7 +9,7 @@ label esc_28C_1A:
     n "Desde las ventanas, las esquinas, los tejados, los espías y agentes observaban."
     n "Nadie comprendía del todo lo ocurrido, pero algo se había roto en el silencio del distrito."
 
-    scene bg escalera_incendios_lluvia with dissolve
+    scene bg escalera_incendios_lluvia 
 
     n "Dentro de la penumbra, Scott sostenía a Tessie entre los brazos."
     n "Su cuerpo, envuelto en un abrigo oscuro, pesaba más que el miedo."
