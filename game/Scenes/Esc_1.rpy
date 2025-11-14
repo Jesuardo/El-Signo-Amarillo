@@ -29,6 +29,7 @@ label esc_1:
     play sound audio.sfx_botas
     n "El eco metálico de las botas resuena entre los adoquines."
 
+    play sound audio.sfx_vientoFrio
     n "El viento golpea el vidrio, arrastrando polvo y hollín."
 
     n "Frente a él, el caballete vacío."
@@ -48,6 +49,7 @@ label esc_1:
     n "Saca un cigarrillo. Lo enciende."
     n "La llama tiembla y el humo asciende, mezclándose con la neblina exterior."
 
+    #poner imagen de scott
     sc "Nada escapa de esto."
 
     n "Permanece allí, apoyado en el alféizar."

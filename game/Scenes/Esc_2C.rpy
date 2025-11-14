@@ -16,6 +16,7 @@ label esc_2C:
     # (Cuando tengas un fondo real de nieve, colócalo aquí)
     scene bg estudio_day with dissolve
 
+    
     n "El paisaje es blanco, interminable."
     n "La tierra está teñida de rojo; el barro pegajoso se mezcla con la sangre."
     n "Los tanques avanzan lentamente, chirriando como animales de hierro."

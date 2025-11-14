@@ -29,9 +29,9 @@ label esc_11:
     # --- DECISIÓN PRINCIPAL DE LA RAMA ---
     menu:
         "Ir a buscar a Tessie a su hospedaje":
-            jump esc_12A
+            jump esc_12C1
 
         "Ir a la iglesia para investigar la ausencia y la sombra del atrio":
-            jump esc_12B
+            jump esc_12C2
 
     return
