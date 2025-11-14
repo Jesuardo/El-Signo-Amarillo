@@ -13,8 +13,13 @@ label esc_1:
     n "El aire huele a carbón, acero caliente y aceite quemado."
 
     n "Scott permanece inmóvil, apoyado sobre el alféizar de la ventana de su estudio."
+<<<<<<< HEAD
     
     show sc1 at left
+=======
+
+    show sc at left 
+>>>>>>> 670489749c38eca39f8ed7d5356deca68f052cf6
     n "Sus manos descansan sobre la piedra fría."
 
     n "Desde allí observa la plaza, las calles desiertas, los edificios envueltos en humo."
