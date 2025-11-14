@@ -13,7 +13,7 @@ label esc_2C:
     n "El murmullo de la ciudad se disuelve, y el sonido de la bruma da paso a un eco distante: la nieve helada del frente oriental."
 
     # (Cuando tengas un fondo real de nieve, colócalo aquí)
-    scene bg estudio1 with dissolve 
+    scene bg recuerdo_Guerra with dissolve 
     # acá va el fondo 
 
     play sound audio.amb_guerra_distant

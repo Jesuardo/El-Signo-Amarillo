@@ -36,9 +36,6 @@ label esc_23C_1:
 
     n "Afuera, los pasos del régimen se detuvieron junto a la puerta."
 
-    # Golpe seco
-    # play sfx audio.sfx_golpe
-
     n "Un golpe seco. El metal resonó en el piso de arriba."
 
     n "Scott contuvo la respiración."
@@ -55,19 +52,16 @@ label esc_23C_1:
     # -----------------------------
     # DECISIÓN POR TIEMPO — 30s
     # -----------------------------
-
     menu:
-        timer 30 action Jump("esc_24C_1_auto")    # si no elige → NO HACER NADA
-
         "Detenerla — intervenir antes de que toque el libro":
             jump esc_24C_1B
 
         "No hacer nada":
             jump esc_24C_1A
 
+        timer 30 jump esc_24C_1_auto
+
     return
 
-
-# Si se acaba el tiempo → se decide automáticamente no hacer nada.
 label esc_24C_1_auto:
-    jump esc_24C_1
+    jump esc_24C_1A
