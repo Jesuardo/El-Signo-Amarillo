@@ -16,14 +16,14 @@
 # MÚSICA (BGM)
 # -----------------------------------------------------
 define audio.theme_main        = "audio/bgm/ambientacionTensa.ogg"
-define audio.theme_signo       = "audio/bgm/introMisteriosoOscuro.ogg"
+define audio.theme_introduccion= "audio/bgm/introMisteriosoOscuro.ogg"
 define audio.theme_tension     = "audio/bgm/tensionCorta.ogg"
-define audio.theme_suspenso    = "audio/bgm/hojasVolando.ogg"
-define audio.theme_misterio    = "audio/bgm/pasajeHojasPapel.ogg"
-define audio.theme_recuerdo    = "audio/bgm/sirenasLejanas.ogg"
-define audio.theme_guerra      = "audio/bgm/tensionCorta.ogg"
-define audio.theme_si          = "audio/bgm/vientoCiudad.ogg"
-define audio.theme_no          = "audio/bgm/vientoFrio.ogg"
+define audio.theme_hojas_volando="audio/bgm/hojasVolando.ogg"
+define audio.theme_hojas_pasando="audio/bgm/pasajeHojasPapel.ogg"
+define audio.theme_policia     = "audio/bgm/sirenasLejanas.ogg"
+define audio.theme_tension     = "audio/bgm/tensionCorta.ogg"
+define audio.theme_vendabal    = "audio/bgm/vientoCiudad.ogg"
+define audio.theme_ventisca    = "audio/bgm/vientoFrio.ogg"
 
 
 # -----------------------------------------------------
@@ -38,24 +38,33 @@ define audio.amb_rain_soft     = "audio/amb_rain_soft.ogg"
 define audio.amb_rain_hard     = "audio/amb_rain_hard.ogg"
 define audio.amb_church_inside = "audio/amb_church_inside.ogg"
 define audio.amb_church_empty  = "audio/amb_church_empty.ogg"
-define audio.amb_guerra_distant = "audio/amb_guerra_distant.ogg"
+define audio.amb_guerra_distant ="audio/amb_guerra_distant.ogg"
 
 # -----------------------------------------------------
 # EFECTOS DE SONIDO (SFX)
 # -----------------------------------------------------
-define audio.sfx_door_creak     = "audio/sfx/abrazo.ogg"
-define audio.sfx_door_knock     = "audio/sfx/campanaMinecraft.ogg"
-define audio.sfx_step_stone     = "audio/sfx/chillidoPuerta.ogg"
-define audio.sfx_step_wood      = "audio/sfx/encenderCigarrillo.ogg"
-define audio.sfx_paper_rustle   = "audio/sfx_paper_rustle.ogg"
-define audio.sfx_cig_light      = "audio/sfx_cig_light.ogg"
-define audio.sfx_match_strike   = "audio/sfx_match_strike.ogg"
-define audio.sfx_metal_gate     = "audio/sfx_metal_gate.ogg"
-define audio.sfx_chain_clank    = "audio/sfx_chain_clank.ogg"
-define audio.sfx_symbol_resonar = "audio/sfx_symbol_resonar.ogg"   # Efecto asociado al Signo Amarillo
-define audio.sfx_boom_distant   = "audio/sfx_boom_distant.ogg"
-define audio.sfx_heartbeat      = "audio/sfx_heartbeat.ogg"
-define audio.sfx_tension_hit    = "audio/sfx_tension_hit.ogg"
+define audio.sfx_abrazo         = "audio/sfx/abrazo.ogg"
+define audio.sfx_minecraft      = "audio/sfx/campanaMinecraft.ogg"
+define audio.sfx_chillido       = "audio/sfx/chillidoPuerta.ogg"
+define audio.sfx_cigarrillo     = "audio/sfx/encenderCigarrillo.ogg"
+define audio.sfx_auto_fallando  = "audio/sfx/falloArranqueAuto.ogg"
+define audio.sfx_impactante     = "audio/sfx/impactante.ogg"
+define audio.sfx_perro          = "audio/sfx/Jesus.ogg"
+define audio.sfx_libro_cerrado  = "audio/sfx/libroCerrar.ogg"
+define audio.sfx_fallo_motor    = "audio/sfx/malfuncionamientoMotor.ogg"
+define audio.sfx_llanto_mujer   = "audio/sfx/mujerLlorando.ogg"   # Efecto asociado al Signo Amarillo
+define audio.sfx_agente_escalera= "audio/sfx/pasosEscaleraAgente.ogg"
+define audio.sfx_disparos       = "audio/sfx/pelotonFusilamiento.ogg"
+define audio.sfx_pinta          = "audio/sfx/pintando.ogg"
+define audio.sfx_pintura        = "audio/sfx/pintando2.ogg"
+define audio.sfx_caminata       = "audio/sfx/pisadasGenericosTierra.ogg"
+define audio.sfx_abrir          = "audio/sfx/puertaAbriendose.ogg"
+define audio.sfx_cerrar         = "audio/sfx/puertaCerrandose.ogg"
+define audio.sfx_respiracion    = "audio/sfx/respiracionPesada.ogg"
+define audio.sfx_recuerdo_guerra= "audio/sfx/tiroteoGuerra.ogg"
+define audio.sfx_transicion     = "audio/sfx/transicion.ogg"
+define audio.sfx_campana        = "audio/sfx/unGolpeCampana.ogg"
+define audio.sfx_auto           = "audio/sfx/viajeAuto.ogg"
 
 # -----------------------------------------------------
 # EFECTOS ESPECIALES (USO RARO)
