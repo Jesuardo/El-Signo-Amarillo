@@ -28,8 +28,15 @@ define sc = Character(
 define te = Character(
     "Tessie",
     color = "#f5c2e7",
-    what_prefix = "“",
-    what_suffix = "”"
+    what_prefix = """,
+    what_suffix = """
+)
+
+define th = Character(
+    "Thomas",
+    color = "#a6d189",
+    what_prefix = "«",
+    what_suffix = "»"
 )
 
 

@@ -1,6 +1,6 @@
 label esc_8C:
 
-    scene bg estudio_day with fade
+    scene bg estudio1 with fade
 
     n "La mañana llega sin claridad. Una luz gris, desgastada, entra a través de los edificios como si el cielo estuviera fatigado."
     n "Tessie se mueve por el estudio en silencio. Sus pasos son lentos, casi cuidadosos, como si temiera despertar algo aún dormido."
@@ -12,7 +12,7 @@ label esc_8C:
     n "La curiosidad, más que el temor, la empuja."
     n "Sus ojos se dirigen hacia la pequeña biblioteca junto al escritorio de Scott."
 
-    scene bg estudio_biblioteca with dissolve
+    scene bg bibliotecaNoche with dissolve
 
     n "Las estanterías están saturadas de libros envejecidos, mapas doblados, recortes y notas escritas con letra apresurada."
     n "Papeles arrugados, márgenes subrayados… todo un registro de obsesiones que Scott nunca compartió del todo."
@@ -32,7 +32,7 @@ label esc_8C:
 
     n "Recuerda la voz de Scott desde la noche anterior. Su historia, contada con ternura y dolor."
 
-    sc "Un lugar donde la ciudad no estaba vigilada. Donde la libertad era posible…" (voiceover)
+    sc "Un lugar donde la ciudad no estaba vigilada. Donde la libertad era posible…"
 
     n "Tessie cierra los ojos un instante. La imagen de ese mundo imposible la calma… pero también la empuja hacia adelante."
 

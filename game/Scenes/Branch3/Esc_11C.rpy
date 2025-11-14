@@ -1,6 +1,6 @@
-label esc_11:
+label esc_11C:
 
-    scene bg studio_day with fade
+    scene bg estudio1 with fade
 
     n "La bruma cubre la ciudad como una tela húmeda."
     n "El sol apenas se adivina entre los estandartes del régimen."
@@ -29,9 +29,8 @@ label esc_11:
     # --- DECISIÓN PRINCIPAL DE LA RAMA ---
     menu:
         "Ir a buscar a Tessie a su hospedaje":
-            jump esc_12C1
+            $ path11 = 1
 
         "Ir a la iglesia para investigar la ausencia y la sombra del atrio":
-            jump esc_12C2
-
+            $ path11 = 2
     return

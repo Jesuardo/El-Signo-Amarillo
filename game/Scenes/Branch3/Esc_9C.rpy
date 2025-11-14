@@ -1,6 +1,6 @@
-label esc_9:
+label esc_9C:
 
-    scene bg studio_day with fade
+    scene bg estudio1 with fade
 
     n "La luz de la mañana es gris, uniforme."
     n "La bruma flota sobre los techos y las campanas resuenan apagadas entre los edificios."

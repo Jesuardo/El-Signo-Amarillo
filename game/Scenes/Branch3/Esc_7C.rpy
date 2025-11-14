@@ -1,6 +1,6 @@
 label esc_7C:
 
-    scene bg estudio_noche with fade
+    scene bg estudioNoche with fade
 
     n "La tensión persiste, pero el ambiente se ha vuelto más íntimo."
     n "La lámpara del escritorio lanza un círculo cálido sobre la mesa."
@@ -39,5 +39,19 @@ label esc_7C:
     n "El silencio vuelve. Pero ya no es hostil, sino humano."
     n "Fuera, el viento mueve los estandartes del régimen."
     n "Dentro, la calma recupera su lugar por un instante."
+
+    call esc_8C from _call_esc_8C
+    call esc_9C from _call_esc_9C
+    call esc_10C from _call_esc_10C
+
+    # Escena 11 tiene bifurcación
+    call esc_11C from _call_esc_11C
+
+    if path11 == 1:
+        # → Buscar a Tessie
+        jump esc_12C_1
+    else:
+        # → Ir a la iglesia
+        jump esc_12C_2
 
     return

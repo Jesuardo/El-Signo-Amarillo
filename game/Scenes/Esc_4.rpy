@@ -5,7 +5,7 @@
 label esc_4:
 
     scene bg estudio1 with fade
-    play ambient audio.amb_estudio fadein 1.0
+    play ambient audio.amb_studio_day fadein 1.0
 
     n "Scott vuelve al caballete."
     n "Intenta concentrarse, pero la luz que entra por la ventana tiene un matiz enfermo, amarillento."

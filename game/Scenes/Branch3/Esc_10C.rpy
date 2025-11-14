@@ -1,6 +1,6 @@
-label esc_10:
+label esc_10C:
 
-    scene bg studio_day with fade
+    scene bg estudio1 with fade
 
     n "El cielo está cubierto."
     n "Una luz opaca cae sobre los edificios."
@@ -55,4 +55,3 @@ label esc_10:
     scene black with fade
 
     return
- 
