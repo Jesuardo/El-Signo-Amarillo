@@ -17,6 +17,7 @@ label esc_18C_1:
     n "Scott está a su lado, inmóvil."
     n "Su corazón late con violencia, sus pensamientos son un torbellino de advertencias."
 
+    show sc1 at left
     sc "(voz baja, urgente) Tessie… no lo abras."
     sc "No sabés lo que hay dentro."
 

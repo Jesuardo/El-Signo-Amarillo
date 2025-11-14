@@ -19,6 +19,7 @@ label esc_28C_1A:
     n "La bruma los envolvía a medida que descendían."
     n "Scott no levantaba la vista. Su respiración era un jadeo breve, irregular."
 
+    show sc1 at left
     sc "(pensamiento, en voz baja) No puedo dejarla…"
     sc "Solo puedo correr."
 

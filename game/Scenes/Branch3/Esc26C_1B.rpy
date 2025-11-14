@@ -28,6 +28,7 @@ label esc_26C_1B:
     play sound "objeto_caer_suave.ogg"
     n "Tessie dejó caer su mochila junto a la mesa. Sus manos temblaban, la mirada perdida en el reflejo del cristal empañado."
 
+    show sc1 at left
     sc "«Estamos a salvo… por ahora.»"
 
     n "Su voz sonó hueca, como si dudara incluso al pronunciarla."

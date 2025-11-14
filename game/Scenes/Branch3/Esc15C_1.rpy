@@ -28,6 +28,7 @@ label esc_15C_1:
     n "Scott respira hondo."
     n "La voz le tiembla cuando habla, pero no hay duda en ella."
 
+    show sc1 at left
     sc "Olvidá todo esto, Tessie."
     sc "No vuelvas a hablar de ello."
     sc "Fingí que nunca existió."

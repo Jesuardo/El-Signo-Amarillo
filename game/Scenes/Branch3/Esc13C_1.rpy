@@ -19,6 +19,7 @@ label esc_13C_1:
     n "En el umbral, Tessie aparece. Cansada, pero tranquila."
     n "Sus ojos traen consigo una calma extraña, como si su mente hubiera viajado muy lejos."
 
+    show sc1 at left
     sc "¡Tessie! ¡Por fin!"
 
     n "Corre hacia ella. La toma de los hombros, con una mezcla de alivio y reproche."

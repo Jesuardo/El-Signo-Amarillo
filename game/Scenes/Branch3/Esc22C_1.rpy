@@ -28,6 +28,7 @@ label esc_22C_1:
 
     te "(susurrando) No puedo dejarlo así."
 
+    show sc1 at left
     sc "(entre dientes) Quietos."
 
     n "El pasillo crujió otra vez."

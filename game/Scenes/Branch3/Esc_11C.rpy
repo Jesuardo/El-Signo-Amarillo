@@ -12,6 +12,7 @@ label esc_11C:
 
     n "Tessie no ha aparecido. Su ausencia pesa en la mirada de Scott."
 
+    show sc1 at left
     sc "(para sí) No ha llegado todavía… Supongo que se entretuvo en su apartamento."
 
     th "(asintiendo) Quizá, señor. La mañana avanza rápido… y con tanto que investiga, podría haberse distraído."

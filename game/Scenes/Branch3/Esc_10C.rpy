@@ -13,6 +13,7 @@ label esc_10C:
 
     th "¿Se habrá retrasado mucho, señor?"
 
+    show sc1 at left
     sc "Probablemente."
     sc "La mañana se le habrá pasado rápido."
     sc "Ya sabes cómo es con sus investigaciones."

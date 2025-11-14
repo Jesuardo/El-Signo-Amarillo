@@ -12,6 +12,7 @@ label esc_24B_C_1:
     # sonido metálico acercándose
     n "El crujido metálico de las ruedas en el pasillo se acercaba con ritmo lento, preciso, el sonido de una certeza que buscaba."
 
+    show sc1 at left
     sc "(susurrando, apenas un hilo) No hagas ningún movimiento. Mantente quieta."
 
     n "Tessie asintió, los ojos abiertos, fijos en la puerta."

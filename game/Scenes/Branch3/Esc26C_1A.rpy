@@ -54,6 +54,7 @@ label esc_26C_1A:
     n "La tocó apenas, sus dedos manchados de rojo."
     n "El silencio era total."
 
+    show sc1 at left
     sc "(en un murmullo) Tessie…"
 
     n "Sus labios temblaron, pero no dijo más."

@@ -21,6 +21,7 @@ label esc_27C_1B:
     n "La urgencia de protegerla se mezclaba con el miedo a perderla."
     n "Un nudo de culpa y amor le apretó el pecho: culpable por arrastrarla hasta allí, enamorado por la fuerza con que resistía."
 
+    show sc1 at left
     sc "«No puedo cambiar lo que nos persigue, ni lo que hemos descubierto.»"
     sc "«Solo puedo protegerla… hasta donde me sea posible.»"
 

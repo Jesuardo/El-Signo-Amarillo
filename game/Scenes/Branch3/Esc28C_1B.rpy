@@ -24,6 +24,7 @@ label esc_28C_1B:
 
     te "“Scott… No sé cómo, pero siento que nos miran. Cada movimiento que hacemos.”"
 
+    show sc1 at left
     sc "«Lo sé. La noche está viva con ellos. No podemos distraernos.»"
 
     n "El paneo desde la ventana abarcaba el vecindario: puertas cerradas, persianas entreabiertas, charcos que reflejaban figuras que no deberían estar allí."

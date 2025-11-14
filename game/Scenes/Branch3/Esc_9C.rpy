@@ -18,7 +18,8 @@ label esc_9C:
     sc "Gritaba como si quisiera atravesar los muros del estudio."
 
     n "Thomas asiente, divertido."
-
+    
+    show sc1 at left
     sc "Y el organista… ese hombre era una tortura."
     sc "Cada himno parecía una blasfemia nueva."
 

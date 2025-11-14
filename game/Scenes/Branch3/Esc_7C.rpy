@@ -8,11 +8,7 @@ label esc_7C:
 
     n "Él se inclina lentamente y toma sus manos. Su voz es baja, serena, cargada de cansancio."
 
-    show sc1:
-            xalign 0.2
-            yalign 1.0
-            alpha 0.0
-            linear 1.0 alpha 1.0
+    show sc1 at left
     sc "Respira, Tessie."
     sc "Cierra los ojos un momento."
     sc "Déjame contarte algo."

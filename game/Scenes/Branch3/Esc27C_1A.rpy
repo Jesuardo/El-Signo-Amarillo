@@ -10,6 +10,7 @@ label esc_27C_1A:
 
     n "El horror se mezclaba con el amor que sentía por ella, y con una culpa que lo ahogaba."
 
+    show sc1 at left
     sc "(en un murmullo) No puedo…"
     sc "No puedo cambiar lo que nos persigue, ni lo que hemos hecho."
     sc "Solo puedo mantenerla con vida… hasta donde me sea posible."

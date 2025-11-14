@@ -13,6 +13,7 @@ label esc_17C_1:
     n "El color desaparece de su rostro."
     n "Sus ojos se clavan en el libro, como si fuera una herida abierta en el aire."
 
+    show sc1 at left
     sc "Tessie…"
     sc "No comprendés."
     sc "Ese libro no es un juego."

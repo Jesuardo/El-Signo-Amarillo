@@ -35,6 +35,7 @@ label esc_16C_1:
     n "Scott intenta mantener la calma, pero su rostro lo traiciona."
     n "Cada palabra de Tessie se clava en su conciencia."
 
+    show sc1 at left
     sc "(bajo, tenso) Te estoy pidiendo que te protejas."
     sc "No entendés lo que arriesgás."
 

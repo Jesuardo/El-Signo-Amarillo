@@ -13,6 +13,7 @@ label esc_23C_1:
 
     te "(susurrando, apenas audible) Scott… Van a entrar. Si ven lo que hemos estado leyendo…"
 
+    show sc1 at left
     sc "(voz baja, seca) Lo sé."
 
     n "El haz de una linterna se filtró por la rendija del armario, dibujando una línea pálida en la madera."

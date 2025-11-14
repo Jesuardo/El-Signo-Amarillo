@@ -20,6 +20,7 @@ label esc_21C_1:
 
     te "(susurrando) ¿Creés que nos vieron?"
 
+    show sc1 at left
     sc "(agitando la cabeza) No lo sé. No hagas ruido."
 
     n "La puerta está entreabierta."

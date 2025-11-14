@@ -27,6 +27,7 @@ label esc_19C_1:
     n "los nombres borrados de los informes,"
     n "los símbolos grabados en muros clandestinos."
 
+    show sc1 at left
     sc "(voz grave) Tessie… esos símbolos no son solo historia."
     sc "Son la memoria de quienes se atrevieron a creer en algo diferente."
     sc "El régimen los destruyó, y ahora, solo mencionarlos es un crimen."

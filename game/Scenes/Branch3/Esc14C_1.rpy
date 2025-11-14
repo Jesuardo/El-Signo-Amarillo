@@ -23,6 +23,7 @@ label esc_14C_1:
 
     n "Scott se tensa. El cigarrillo entre sus dedos se apaga sin que lo note."
 
+    show sc1 at left
     sc "(voz baja) ¿Un círculo dorado?"
 
     te "Asentí."

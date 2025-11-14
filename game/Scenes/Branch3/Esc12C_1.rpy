@@ -21,6 +21,7 @@ label esc_12C_1:
     n "El sonido de las bisagras rompe el silencio."
     n "Adentro, la penumbra. El polvo suspendido. Un olor a humedad y perfume olvidado."
 
+    show sc1 at left
     sc "(voz baja) Tessie…"
 
     n "Silencio. Solo el eco de su voz y la brisa que entra por las ventanas mal cerradas."

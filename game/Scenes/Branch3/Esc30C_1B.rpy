@@ -27,6 +27,7 @@ label esc_30C_1B:
 
     n "El carro se detuvo del todo. Las puertas se abrieron con un chirrido metálico que resonó sobre los adoquines mojados."
 
+    show sc1 at left
     sc "«Tessie… Lo siento.»"
 
     n "No hubo tiempo para más."

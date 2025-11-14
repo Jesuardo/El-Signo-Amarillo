@@ -19,6 +19,7 @@ label esc_29C_1B:
 
     n "El ruido se repetía, como un ritmo mecánico, antiguo, un latido deformado por la lluvia. Cada golpe lo atraía un poco más, como si la ciudad misma lo estuviera llamando."
 
+    show sc1 at left
     sc "«Debo ver qué es… No puedo ignorarlo.»"
 
     te "“No bajes, Scott… No sabes lo que puede estar ahí abajo.”"

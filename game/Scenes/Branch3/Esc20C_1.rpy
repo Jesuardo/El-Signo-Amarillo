@@ -11,7 +11,6 @@ label esc_20C_1:
     n "Tessie sigue junto al libro, los dedos sobre la cubierta amarillenta,"
     n "como si temiera tocarlo y no pudiera dejar de hacerlo."
 
-    show sc at left 
     n "Scott permanece detrás, de pie, la vista fija en la ventana."
 
     # Ruido metálico de ruedas sobre adoquines
@@ -22,6 +21,7 @@ label esc_20C_1:
 
     te "(susurrando) ¿Lo escuchás?"
 
+    show sc1 at left
     sc "Sí."
 
     n "Silencio. Solo el ruido distante del mecanismo, una respiración pesada del mundo afuera."

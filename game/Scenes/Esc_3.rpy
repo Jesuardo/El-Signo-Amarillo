@@ -41,11 +41,7 @@ label esc_3:
     play sound audio.sfx_cigarrillo
     n "Enciende un cigarrillo y lo observa con recelo."
 
-    show sc1:
-            xalign 0.2
-            yalign 1.0
-            alpha 0.0
-            linear 1.0 alpha 1.0
+    show sc1 at left
     sc "No… he estropeado este brazo. No sé cómo pude contaminar la pintura así."
 
     te "¿No es culpa mía, verdad?"

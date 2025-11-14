@@ -32,6 +32,7 @@ label esc_8C:
 
     n "Recuerda la voz de Scott desde la noche anterior. Su historia, contada con ternura y dolor."
 
+    show sc1 at left
     sc "Un lugar donde la ciudad no estaba vigilada. Donde la libertad era posible…"
 
     n "Tessie cierra los ojos un instante. La imagen de ese mundo imposible la calma… pero también la empuja hacia adelante."
