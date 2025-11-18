@@ -6,16 +6,17 @@
 label esc_2C:
 
     # Entrar al recuerdo
-    scene black with dissolve
-    stop ambient fadeout 1.0
-    play ambient audio.amb_bruma fadein 1.0
+    scene black 
+    play sound audio.sfx_transicion
 
     n "Scott cierra los ojos."
     n "El murmullo de la ciudad se disuelve, y el sonido de la bruma da paso a un eco distante: la nieve helada del frente oriental."
 
-    # (Cuando tengas un fondo real de nieve, colócalo aquí)
-    scene bg estudio_day with dissolve
+    scene bg flashback  
 
+
+
+    play sound audio.amb_guerra_distant
     n "El paisaje es blanco, interminable."
     n "La tierra está teñida de rojo; el barro pegajoso se mezcla con la sangre."
     n "Los tanques avanzan lentamente, chirriando como animales de hierro."
@@ -38,11 +39,10 @@ label esc_2C:
     n "Dos ojos vacíos de los caídos, ni las voces rotas que todavía lo llaman en sueños."
 
     # Regreso al presente
-    stop ambient fadeout 1.0
-    play sound audio.sfx_blindado
-    scene bg estudio_day with fade
-    play ambient audio.amb_estudio fadein 1.0
+    play sound audio.sfx_transicion
+    scene bg estudio1 with fade
 
+    play sound audio.sfx_motor
     n "El sonido de los motores blindados lo trae de vuelta. El recuerdo se disuelve lentamente."
     n "Scott abre los ojos."
 
@@ -56,7 +56,7 @@ label esc_2C:
     n "Nada de lo que pinte podrá escapar de esa sombra."
 
     # El agente
-    scene bg iglesia_atrio with dissolve
+    scene bg atrio_iglesia_agente 
 
     n "Fuera, algo se mueve."
     n "Scott se inclina."
@@ -73,7 +73,7 @@ label esc_2C:
     n "de la obediencia impuesta."
 
     # Vuelta al estudio
-    scene bg estudio_day with dissolve
+    scene bg estudio1 
 
     n "Scott apaga su cigarrillo."
     n "No aparta la vista."

@@ -1,6 +1,6 @@
-label esc_9:
+label esc_9C:
 
-    scene bg studio_day with fade
+    scene bg estudio1 with fade
 
     n "La luz de la mañana es gris, uniforme."
     n "La bruma flota sobre los techos y las campanas resuenan apagadas entre los edificios."
@@ -18,7 +18,8 @@ label esc_9:
     sc "Gritaba como si quisiera atravesar los muros del estudio."
 
     n "Thomas asiente, divertido."
-
+    
+    show sc1 at left
     sc "Y el organista… ese hombre era una tortura."
     sc "Cada himno parecía una blasfemia nueva."
 

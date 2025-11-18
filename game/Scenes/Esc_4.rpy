@@ -4,8 +4,8 @@
 
 label esc_4:
 
-    scene bg studio_day with fade
-    play ambient audio.amb_estudio fadein 1.0
+    scene bg estudio1 with fade
+    play ambient audio.amb_studio_day fadein 1.0
 
     n "Scott vuelve al caballete."
     n "Intenta concentrarse, pero la luz que entra por la ventana tiene un matiz enfermo, amarillento."
@@ -15,6 +15,7 @@ label esc_4:
 
     n "Los tonos se corrompen: amarillos sucios, verdes marchitos, sombras que parecen absorber la luz."
 
+    show te1 at right
     te "No sé qué está pasando con los colores. Tu pintura… se ve… horrible."
 
     n "Scott aprieta los dientes."
@@ -27,6 +28,7 @@ label esc_4:
 
     n "Cada trazo que da parece infectar el lienzo, extender la corrupción como una gangrena."
 
+    show sc1 at left
     sc "No es tu culpa. Es… la luz, el calor… y quizá la sombra de aquel hombre allá afuera."
     sc "Todo se mezcla, todo contamina el color."
 

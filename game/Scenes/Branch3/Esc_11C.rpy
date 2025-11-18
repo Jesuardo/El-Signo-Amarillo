@@ -1,6 +1,6 @@
-label esc_11:
+label esc_11C:
 
-    scene bg studio_day with fade
+    scene bg estudio1 with fade
 
     n "La bruma cubre la ciudad como una tela húmeda."
     n "El sol apenas se adivina entre los estandartes del régimen."
@@ -12,6 +12,7 @@ label esc_11:
 
     n "Tessie no ha aparecido. Su ausencia pesa en la mirada de Scott."
 
+    show sc1 at left
     sc "(para sí) No ha llegado todavía… Supongo que se entretuvo en su apartamento."
 
     th "(asintiendo) Quizá, señor. La mañana avanza rápido… y con tanto que investiga, podría haberse distraído."
@@ -29,9 +30,8 @@ label esc_11:
     # --- DECISIÓN PRINCIPAL DE LA RAMA ---
     menu:
         "Ir a buscar a Tessie a su hospedaje":
-            jump esc_12A
+            $ path11 = 1
 
         "Ir a la iglesia para investigar la ausencia y la sombra del atrio":
-            jump esc_12B
-
+            $ path11 = 2
     return

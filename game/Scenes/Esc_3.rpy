@@ -4,10 +4,11 @@
 
 label esc_3:
 
-    play ambient audio.amb_estudio fadein 1.0
-    scene bg studio_day with fade
+    scene bg estudio_tessie_pintada with fade
 
+    
     n "Desde la ventana, Scott observa la plaza."
+    
     n "Apoyado contra el atrio, un hombre permanece inmóvil."
     n "Su rostro, abultado y grisáceo, parece hecho de cera muerta."
     n "El uniforme del régimen lo oprime, como si la vida misma se hubiera rendido bajo la tela."
@@ -19,9 +20,11 @@ label esc_3:
     n "Scott aparta la vista."
     n "Vuelve al caballete."
 
+    show te1 at right
     # Tessie posando
     n "Hace una seña a Tessie, que posa en silencio bajo la luz gris que entra por la ventana."
 
+    play sound audio.sfx_pinta
     n "Trabaja unos minutos."
     n "La brocha avanza con ritmo contenido, pero algo empieza a fallar:"
 
@@ -33,11 +36,13 @@ label esc_3:
     n "Mira el lienzo, incrédulo."
 
     # Diálogo
+    
     te "¿He hecho algo malo?"
 
-    play sound audio.sfx_fosforo
+    play sound audio.sfx_cigarrillo
     n "Enciende un cigarrillo y lo observa con recelo."
 
+    show sc1 at left
     sc "No… he estropeado este brazo. No sé cómo pude contaminar la pintura así."
 
     te "¿No es culpa mía, verdad?"
@@ -47,6 +52,7 @@ label esc_3:
     n "Tessie baja la cabeza."
 
     n "Scott aplica trapo y aguarrás sobre la tela."
+    play sound audio.sfx_pintura
     n "Cuanto más frota, más la pintura parece enfermar."
     n "La figura se pudre, los colores se mezclan, la luz desaparece."
     n "El lienzo parece absorber la corrupción misma de la ciudad."
@@ -67,14 +73,20 @@ label esc_3:
 
     te "Debe de ser el aguarrás, o algo."
 
+    play sound audio.sfx_suspiro  
     n "Scott suspira."
     n "Hundido en frustración, aprieta los pinceles contra la tela hasta deformarla."
     n "De su boca escapa una maldición que apenas se oye."
 
-    te "(ríe) ¡Muy bonito! ¡Arruina tus pinceles como un niño! Lleva semanas trabajando, y ahora mira… ¡de qué sirve desgarrar la tela!"
+    sc "(exacerbado): ¡Muy bonito! ¡Arruina tus pinceles como un niño! Lleva semanas trabajando, y ahora mira… ¿¡de qué sirve!?" 
+    
+    play sound audio.sfx_telaRomper
+    n "Scott desgarra el lienzo"
 
-    n "Scott no responde."
+    n "Tessie no responde."
     n "El aire vibra, como si la ciudad respirara dentro del estudio."
+
+    play sound audio.theme_policia
     n "El ruido lejano de las patrullas se mezcla con el roce del trapo."
 
     n "En el ventanal, la silueta del hombre del atrio sigue allí, fija, vigilante."

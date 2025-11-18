@@ -4,6 +4,7 @@
 
 label esc_1:
 
+    scene bg escena1
 
     n "La bruma cubre la ciudad."
     n "El humo de las fábricas se eleva entre los tejados, donde los estandartes del régimen ondean rígidos, sin color."
@@ -12,23 +13,21 @@ label esc_1:
     n "El aire huele a carbón, acero caliente y aceite quemado."
 
     n "Scott permanece inmóvil, apoyado sobre el alféizar de la ventana de su estudio."
-    show sc:
-        xalign 0.2
-        yalign 1.0
-        alpha 0.0
-        linear 1.0 alpha 1.0
+    
+    show sc1 at left
     n "Sus manos descansan sobre la piedra fría."
 
     n "Desde allí observa la plaza, las calles desiertas, los edificios envueltos en humo."
     n "La luz gris se refleja en el vidrio, deformando su rostro."
     n "Todo parece detenido."
 
-    play sound audio.sfx_blindado
+    play sound audio.sfx_motor
     n "A lo lejos, se escuchan los motores de los vehículos blindados patrullando el perímetro."
 
     play sound audio.sfx_botas
     n "El eco metálico de las botas resuena entre los adoquines."
 
+    play sound audio.theme_ventisca
     n "El viento golpea el vidrio, arrastrando polvo y hollín."
 
     n "Frente a él, el caballete vacío."
@@ -44,10 +43,11 @@ label esc_1:
     n "Por un instante, la sombra de un hombre de rostro blando y abultado se proyecta sobre el lienzo."
     n "Scott parpadea; la figura desaparece."
 
-    play sound audio.sfx_fosforo
+    play sound audio.sfx_cigarrillo
     n "Saca un cigarrillo. Lo enciende."
     n "La llama tiembla y el humo asciende, mezclándose con la neblina exterior."
 
+    #poner imagen de scott
     sc "Nada escapa de esto."
 
     n "Permanece allí, apoyado en el alféizar."
